@@ -1,5 +1,6 @@
 file1 hahaha 修改
 测试stash 你好
-谢谢
+谢谢22
 我也修改
 测试冲突
+hahah
